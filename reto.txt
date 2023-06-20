@@ -1,0 +1,7 @@
+Crear una solucion que permita medir la huella de carbono de los dispositivos electronicos que usamos diario. 
+
+Debe contar con un parametro maximo por dia qie nos sirva de medidda para comprobarlo con los consumos que mediremos. 
+
+La solucion debe enviar la informacion mas relevante por los medios digitales mas usados. 
+
+Debemos presentar reportes que nos ayuden a conocer las tendencias de los datos y la informacion recopilada para asi hacer una toma de desciciones. 
